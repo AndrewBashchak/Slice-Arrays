@@ -1,2 +1,2 @@
-﻿# Slice-Arrays-on-JS
-Andrew Bashchak IPZs-24-2
+﻿# Slice Arrays
+Andrew Bashchak, student of KDU, group: SWs-24-2
